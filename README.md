@@ -1,3 +1,4 @@
 # my-repo
 
-feature2
+feature 1
+feature 2
